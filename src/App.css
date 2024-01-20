@@ -1,0 +1,15 @@
+#root {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todo {
+    display: flex;
+    margin-top: 10px;
+}
+
+.todo-price, .button-removed {
+    margin-left: 10px;
+}
